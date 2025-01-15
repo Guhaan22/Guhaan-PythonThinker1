@@ -2,8 +2,6 @@ print("Hello from lesson 2")
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
-
+user
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
-min_age = 12
-user_age =input
