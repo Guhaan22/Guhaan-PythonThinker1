@@ -3,6 +3,6 @@ print("Hello from lesson 2")
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
 num1 - input("num1")
-num2 - input            
+num2 - input()            
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
