@@ -77,8 +77,8 @@ print(ans)
 
 # 1. variable1 
 # 2. 1variable
-# 3. 1
-# 4. one
+# 3. 1 yes
+# 4. one yes
 # 5. num1
 # 6. num_1
 # 7. Num_1
