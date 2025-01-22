@@ -65,7 +65,7 @@ print(ans)
 
 # **Task 3d**:
 # Calculate and print the result of (3 + 4) * 5 - (10 / 2).
-ans = print((3+4)*5-(10/2))
+ans = ((3+4)*5-(10/2))
 print(ans)
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
