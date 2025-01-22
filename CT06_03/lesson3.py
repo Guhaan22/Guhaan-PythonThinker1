@@ -102,4 +102,4 @@ print(ans)
 #     a = b * 10
 
 # 7.  b = 5
-#     a = a * 10
+#     a = a * 10 invalid
