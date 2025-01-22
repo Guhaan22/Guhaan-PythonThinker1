@@ -55,8 +55,9 @@ print(a + b)
 
 # **Task 3b**:
 # Subtract 10 from 50, then multiply the result by 3.
-an
+
 print(10-50 *3)
+print(ans)
 
 # **Task 3c**:
 # Divide 100 by 4 and print the result.
