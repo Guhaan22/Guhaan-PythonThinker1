@@ -55,7 +55,7 @@ print(a + b)
 
 # **Task 3b**:
 # Subtract 10 from 50, then multiply the result by 3.
-ans = 50-10 * 3
+ans = (50-10) * 3
 print(ans)
 
 # **Task 3c**:
