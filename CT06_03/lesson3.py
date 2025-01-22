@@ -58,7 +58,7 @@ print(a + b)
 
 # **Task 3c**:
 # Divide 100 by 4 and print the result.
-
+print(100 / 4)
 
 # **Task 3d**:
 # Calculate and print the result of (3 + 4) * 5 - (10 / 2).
