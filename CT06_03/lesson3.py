@@ -60,7 +60,7 @@ print(ans)
 
 # **Task 3c**:
 # Divide 100 by 4 and print the result.
-ans = print(100 / 4)
+ans = (100 / 4)
 print(ans)
 
 # **Task 3d**:
