@@ -22,3 +22,5 @@ print("Hello from lesson 3")
 # 8. Calculate the average score (average_score = total_score / num_students)
 # 9. Print the average_score
 # 10. End
+age= 12
+print("age")
