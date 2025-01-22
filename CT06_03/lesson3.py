@@ -67,3 +67,4 @@ print((3+4)*5-(10/2))
 
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
+print(3/2)
