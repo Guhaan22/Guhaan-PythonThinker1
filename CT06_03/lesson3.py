@@ -81,10 +81,10 @@ print(ans)
 # 4. one yes
 # 5. num1 yes
 # 6. num_1
-# 7. Num_1yes
+# 7. Num_1 yes
 # 8. num 1
 # 9. num-1
-# 10. class
+# 10. classyes
 
 # Which of the following are INVALID variable assignments?
 # 1.  a = 100
