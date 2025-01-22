@@ -69,5 +69,5 @@ ans = ((3+4)*5-(10/2))
 print(ans)
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
-ans = print(3/2)
+ans = (3/2)
 print(ans)
