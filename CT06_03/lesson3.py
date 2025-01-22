@@ -51,13 +51,14 @@ print (2+4*5/6+3-6/2)
 # them and print their sum.
 a = 9
 b = 12
-print()
+print(a + b)
 
 # **Task 3b**:
 # Subtract 10 from 50, then multiply the result by 3.
 
 # **Task 3c**:
 # Divide 100 by 4 and print the result.
+
 
 # **Task 3d**:
 # Calculate and print the result of (3 + 4) * 5 - (10 / 2).
