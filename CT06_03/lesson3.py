@@ -55,17 +55,19 @@ print(a + b)
 
 # **Task 3b**:
 # Subtract 10 from 50, then multiply the result by 3.
-print(10-50 *3)
-
+ans = print(10-50 *3)
+print(ans)
 
 # **Task 3c**:
 # Divide 100 by 4 and print the result.
-print(100 / 4)
+ ans = print(100 / 4)
+print(ans)
 
 # **Task 3d**:
 # Calculate and print the result of (3 + 4) * 5 - (10 / 2).
-print((3+4)*5-(10/2))
-
+ans = print((3+4)*5-(10/2))
+print(ans)
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
-print(3/2)
+ans = print(3/2)
+print(ans)
