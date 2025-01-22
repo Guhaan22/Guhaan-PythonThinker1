@@ -25,4 +25,6 @@ print("Hello from lesson 3")
 # and = "hello"
 age = 12
 print(age)
+x = 10
 x = 20
+print9
