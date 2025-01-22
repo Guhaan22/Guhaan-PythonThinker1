@@ -23,5 +23,5 @@ print("Hello from lesson 3")
 # 9. Print the average_score
 # 10. End
 # and = "hello"
-age= 12
+age = 12
 print("age")
