@@ -96,7 +96,7 @@ print(ans)
 
 # 4.  a = b = c = 5
 
-# 5.  a, b = 5, 6
+# 5.  a, b = 5, 6 invalid
 
 # 6.  b = 5
 #     a = b * 10
