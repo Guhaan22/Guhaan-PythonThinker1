@@ -92,7 +92,7 @@ print(ans)
 # 2.  b = 5
 #     a = b
 
-# 3.  100 = a
+# 3.  100 = a invalid
 
 # 4.  a = b = c = 5
 
