@@ -49,7 +49,9 @@ print (2+4*5/6+3-6/2)
 # **Task 3a**:
 # Create 2 variables 'a' and 'b', assign any number to
 # them and print their sum.
-
+a = 9
+b = 12
+print()
 
 # **Task 3b**:
 # Subtract 10 from 50, then multiply the result by 3.
@@ -60,5 +62,5 @@ print (2+4*5/6+3-6/2)
 # **Task 3d**:
 # Calculate and print the result of (3 + 4) * 5 - (10 / 2).
 
-# **Task 3d**:
+# **Task 3e**:
 # Calculate and print the result of 3 / 2.
