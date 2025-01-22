@@ -71,3 +71,35 @@ print(ans)
 # Calculate and print the result of 3 / 2.
 ans = (3/2)
 print(ans)
+
+## VARIABLES QUIZ
+# Which of the following are INVALID variable names?
+
+# 1. variable1
+# 2. 1variable
+# 3. 1
+# 4. one
+# 5. num1
+# 6. num_1
+# 7. Num_1
+# 8. num 1
+# 9. num-1
+# 10. class
+
+# Which of the following are INVALID variable assignments?
+# 1.  a = 100
+
+# 2.  b = 5
+#     a = b
+
+# 3.  100 = a
+
+# 4.  a = b = c = 5
+
+# 5.  a, b = 5, 6
+
+# 6.  b = 5
+#     a = b * 10
+
+# 7.  b = 5
+#     a = a * 10
