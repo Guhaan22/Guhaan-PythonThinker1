@@ -79,9 +79,9 @@ print(ans)
 # 2. 1variable
 # 3. 1 yes
 # 4. one yes
-# 5. num1
+# 5. num1 yes
 # 6. num_1
-# 7. Num_1
+# 7. Num_1yes
 # 8. num 1
 # 9. num-1
 # 10. class
