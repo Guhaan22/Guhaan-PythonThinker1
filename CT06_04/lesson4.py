@@ -37,4 +37,5 @@ G = 3
 YourName = input("What is your name?: ")
 print(YourName)
 YourColour = input("What is your favorite colour?: ")
-print(Y)
+print(YourColour)
+YourAge = input()
