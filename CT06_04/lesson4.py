@@ -88,5 +88,5 @@
 # current year as an integer) to find their age.
 # 3. Convert the age back to a string and print "You are [age]
 # years old".What is your age" )
-YourAge3 = input("what is your age")
-print(int("Next year you will be" [YourAge3 - 1]))
+YourAge3 = int(input("what is your age"))
+print("Next year you will be" [YourAge3 - 1]))
