@@ -18,8 +18,8 @@ R = 1
 B = 2
 G = 3
 print(R*3 + B*5 + G*4)
-MyAge = input("What is your age?")
-type("age")
+# MyAge = input("What is your age?")
+# type("age")
 
 ## Task 1: Storing and printing Strings
 
