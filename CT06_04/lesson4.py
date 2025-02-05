@@ -14,3 +14,5 @@
 # green plates.
 
 # Calculate and print the total amount you have spent: -->
+R= 1
+B = 
