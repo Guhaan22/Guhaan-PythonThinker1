@@ -36,4 +36,4 @@ G = 3
 # in a variable. Print the variable.
 YourName = input("What is your name?: ")
 print(YourName)
-Your
+YourColour + input()
