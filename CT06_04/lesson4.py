@@ -18,4 +18,4 @@ R = 1
 B = 2
 G = 3
 print(R*3 + B*5 + G*4)
-MyAge = input(What is )
+MyAge = input("What is your age?")
