@@ -35,4 +35,4 @@ print(R*3 + B*5 + G*4)
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.
 YourName = input("What is your name?")
-print(name)
+print(YourName)
