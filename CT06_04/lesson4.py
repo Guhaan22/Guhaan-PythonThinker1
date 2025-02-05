@@ -90,5 +90,4 @@
 # years old".What is your age" )
 YourAge3 = int(input("what is your age"))
 print("Next year you will be" + YourAge3 + 1)
-YourNumber3 = int(input("what number would you like"))
-print("")
+YourNumber3 = int(input("what number would you like")
