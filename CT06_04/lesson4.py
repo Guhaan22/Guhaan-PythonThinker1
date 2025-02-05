@@ -14,9 +14,9 @@
 # green plates.
 
 # Calculate and print the total amount you have spent: -->
-# R = 1
-# B = 2
-# G = 3
+R = 1
+B = 2
+G = 3
 # print(R*3 + B*5 + G*4)
 # MyAge = input("What is your age?")
 # type("age")
@@ -34,12 +34,12 @@
 # **Task 1c**:
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.
-# YourName = input("What is your name?: ")
-# print(YourName)
-# YourColour = input("What is your favorite colour?: ")
-# print(YourColour)
-# YourAge = input("What is your age?: ")
-# print(YourAge)
+YourName = input("What is your name?: ")
+print(YourName)
+YourColour = input("What is your favorite colour?: ")
+print(YourColour)
+YourAge = input("What is your age?: ")
+print(YourAge)
 
 
 ## Task 2: Input & string concatenation
@@ -88,7 +88,5 @@
 # current year as an integer) to find their age.
 # 3. Convert the age back to a string and print "You are [age]
 # years old".What is your age" )
-# 3. Convert the age back to a string and print "You are [age]
-# 3. Convert the age back to a string and print "You are [age]
 YourAge3 = input("what is your age")
 print(int("Next year you will be" [YourAge3 - 1]))
