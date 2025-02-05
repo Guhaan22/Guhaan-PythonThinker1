@@ -61,12 +61,12 @@ print(YourAge)
 # and store it in a variable.
 # Concatenate this variable with a phrase like "I would love to
 # visit" and print the full sentence.
-YourName2 = input("What is your name")
-print("Hello" + YourName2)
-YourHobby = input("What is your favorite hobby")
-print ("I enjoy"+ YourHobby)
-YourDreamVacation = input("What is your dream vacation")
-print("I would like to visit"+ YourDreamVacation)
+# YourName2 = input("What is your name")
+# print("Hello" + YourName2)
+# YourHobby = input("What is your favorite hobby")
+# print ("I enjoy"+ YourHobby)
+# YourDreamVacation = input("What is your dream vacation")
+# print("I would like to visit"+ YourDreamVacation)
 
 # **Task 3a**:
 # 1. Ask the user for their current age using input(). Convert this
