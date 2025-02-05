@@ -34,5 +34,5 @@ G = 3
 # **Task 1c**:
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.
-YourName = input("What is your name? :")
+YourName = input("What is your name?: ")
 print(YourName)
