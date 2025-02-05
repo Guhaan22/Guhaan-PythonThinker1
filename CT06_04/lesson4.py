@@ -20,4 +20,4 @@ G = 3
 print(R*3 )
 print(B*5)
 print(G*4)
-print
+print(ans)
