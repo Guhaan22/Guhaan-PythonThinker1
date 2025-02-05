@@ -19,4 +19,4 @@ B = 2
 G = 3
 print(R*3 )
 print(B*5)
-print()
+print(G*4)
