@@ -62,3 +62,8 @@ print(YourAge)
 # Concatenate this variable with a phrase like "I would love to
 # visit" and print the full sentence.
 YourName2 = input("What is your name")
+print("Hello" + YourName2)
+YourHobby = input("What is your favorite hobby")
+print ("I enjoy"+ YourHobby)
+YourDreamVacation = input("What is your dream vacation")
+print("I would like to visit"+ YourDreamVacation)
