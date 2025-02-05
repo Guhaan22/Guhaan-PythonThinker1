@@ -18,4 +18,5 @@ R = 1
 B = 2
 G = 3
 print(R*3 )
-print(B)
+print(B*5)
+print()
