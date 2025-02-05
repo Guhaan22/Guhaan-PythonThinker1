@@ -87,5 +87,8 @@ print("I would like to visit"+ YourDreamVacation)
 # 2. Subtract the birth year from the current year (assume the
 # current year as an integer) to find their age.
 # 3. Convert the age back to a string and print "You are [age]
-# years old".
-YourAge3 = input("what is your age" )
+# years old".What is your age" )
+# 3. Convert the age back to a string and print "You are [age]
+# 3. Convert the age back to a string and print "You are [age]
+YourAge3 = input("what is your age")
+print(int("Next year you will be" [YourAge3 - 1]))
