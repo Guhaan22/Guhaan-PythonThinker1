@@ -34,3 +34,4 @@ type("age")
 # **Task 1c**:
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.
+YourName = input
