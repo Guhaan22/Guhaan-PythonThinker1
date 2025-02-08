@@ -29,7 +29,7 @@ print("Boo")
 start = int(input("What number would you like to store in your start"))
 stop = int(input("What number would you like to store in your stop"))
 for you in range(start, stop):
-       print(you)
+        print(you)
 
 
 
