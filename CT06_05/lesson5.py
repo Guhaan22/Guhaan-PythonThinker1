@@ -26,7 +26,7 @@ for race in range(3, 0, -1):
 for timer in range(10, 0, -1):
         print(timer)
 print("Boo")
-start = input("What number would you like to store in your start")
+start = int(input("What number would you like to store in your start"))
 stop = input("What number would you like to store in your stop")
 for you in range(start, stop):
        print(you)
