@@ -27,7 +27,7 @@ for timer in range(10, 0, -1):
         print(timer)
 print("Boo")
 start = int(input("What number would you like to store in your start"))
-stop = input("What number would you like to store in your stop")
+stop = int(input("What number would you like to store in your stop"))
 for you in range(start, stop):
        print(you)
 
