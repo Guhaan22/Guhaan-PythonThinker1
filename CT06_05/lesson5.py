@@ -72,5 +72,5 @@ for e in range(2, 25, 2):
  print(e)
 for t in range(8, 97, 8):
  print(t)
-for g in range(5, 1, -1):
+for g in range(5, 0, -1):
  print(g)
