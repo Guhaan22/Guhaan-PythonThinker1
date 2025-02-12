@@ -23,6 +23,8 @@ print ("Happyth birthday Name! Message")
 
 
 print("a + b")
+a = "hello"
+b = "guhaan"
 print(a + b)
 
 
