@@ -43,8 +43,16 @@
 # Note:
 #     Notice how "Give me a..." is repeated!
 #     Which function should you be using\
-name = input("What is Your Name")
-for cher in name:
-    print("Give me a "+  cher)
-print("What do we have?")
-print(name +  " is the best")
+# name = input("What is Your Name")
+# for cher in name:
+#     print("Give me a "+  cher)
+# print("What do we have?")
+# print(name +  " is the best")
+# for i in range(10)  
+
+
+## Task 2: Repeated Sentence Loop
+
+# Print the sentence "I like chicken rice." 100 times using the
+# 'for' loop
+
