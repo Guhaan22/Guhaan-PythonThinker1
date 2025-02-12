@@ -19,7 +19,7 @@
 my = input("What is the birthday person's name?")
 by = input("What is the birthday person's age this year")
 guy = input("What personal message you would like to say")
-1
+print
 
 
 
