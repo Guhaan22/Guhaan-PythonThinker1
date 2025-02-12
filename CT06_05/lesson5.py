@@ -68,3 +68,7 @@
 
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
+for e in range(2, 25, 2):
+ print(e)
+for t in range(8, 97, 8):
+ print
