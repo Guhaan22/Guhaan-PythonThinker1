@@ -60,12 +60,11 @@
 # for you in range(0, 60):
 #  print(you)
  
- # **Task 5a**:
-# Print numbers from 1 to 5 using a 'for' loop.
+# **Task 6a**:
+# Use a 'for' loop to print numbers from 2 to 24 in multiples of 2.
 
-# **Task 5b**:
-# Print numbers from 51 to 100 using a 'for' loop.
+# **Task 6b**:
+# Use a 'for' loop to print numbers from 8 to 96 in multiples of 8.
 
-# **Task 5c**:
-# Print numbers from 18 to 29 using a 'for' loop.
-f
+# **Task 6c**:
+# Use a 'for' loop to print numbers from 5 to 1 in descending order.
