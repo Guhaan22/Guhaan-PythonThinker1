@@ -47,4 +47,4 @@ name = input("What is Your Name")
 for cher in name:
     print("Give me a "+  cher)
     print("What do we have?")
-    print(name + "is the best")
+    print(name +  "is the best")
