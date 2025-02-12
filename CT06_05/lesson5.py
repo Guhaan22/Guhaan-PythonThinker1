@@ -43,8 +43,7 @@
 # Note:
 #     Notice how "Give me a..." is repeated!
 #     Which function should you be using\
-nape = input("What is Your Name")
-for cher in nape:
-    print("Give me a"+ nape)
-
+name = input("What is Your Name")
+for cher in name:
+    print("Give me a"+ cher)
          
