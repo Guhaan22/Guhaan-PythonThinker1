@@ -57,5 +57,5 @@
 # 'for' loop
 for i in range(100):
  print("I like chicken rice")
-for you in range(0, 59):
+for you in range(0, 60):
  print(you)
