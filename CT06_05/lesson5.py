@@ -17,7 +17,7 @@
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
 my = input("What is the birthday person's name?")
-by = input("What is the age u are turning this year")
+by = input("What is the age thre birthday is year")
 guy = input("What personal message you would like to say")
 1
 
