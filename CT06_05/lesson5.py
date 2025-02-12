@@ -18,7 +18,8 @@
 # "Happy <Age>th birthday <Name>! <Message>"
 my = int(input("What is the birthday person's name?"))
 by = int(input("What is the birthday person's age this year"))
-guy = int(input("What personal message you would like to say")
+guy = int(input("What personal message you would like to say"))
+
 print
 
 
