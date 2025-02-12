@@ -18,14 +18,8 @@
 # "Happy <Age>th birthday <Name>! <Message>"
 Name = input("What is the birthday person's name?")
 Age = int(input("What is the birthday person's age this year"))
-Message = int(input("What personal message you would like to say"))
-print ("Happyth birthday Name! Message")
-
-
-print("a + b")
-a = "hello"
-b = "guhaan"
-print(a + b)
+Message = input("What personal message you would like to say")
+print("Happy ageth birthday Name! Message")
 
 
          
