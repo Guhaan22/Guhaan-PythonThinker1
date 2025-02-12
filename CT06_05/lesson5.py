@@ -45,6 +45,6 @@
 #     Which function should you be using\
 name = input("What is Your Name")
 for cher in name:
-    print("Give me a"+  Davecher)
+    print("Give me a"+  cher)
     print("Dave")
          
