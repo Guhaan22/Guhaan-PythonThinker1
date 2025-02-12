@@ -22,5 +22,8 @@ Message = int(input("What personal message you would like to say"))
 print ("Happyth birthday Name! Message")
 
 
+print("a + b")
+print(a + b)
+
 
          
