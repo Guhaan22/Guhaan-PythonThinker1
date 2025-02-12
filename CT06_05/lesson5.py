@@ -89,3 +89,7 @@
 # Modify your code to be able to handle that scenario.
 start = input("What number shall start be")
 stop = input("What number shall stop be")
+for there in range(start, stop):
+    print(there)
+if start > stop :
+ print("Start is smaller then Stop, Please Change Your Variable ")
