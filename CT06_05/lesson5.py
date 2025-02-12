@@ -16,7 +16,7 @@
 
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
-my = input("")
+my = input("What is your name?")
 1
 
 
