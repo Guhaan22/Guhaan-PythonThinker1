@@ -68,10 +68,22 @@
 
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
-for e in range(2, 25, 2):
- print(e)
-for t in range(8, 97, 8):
- print(t)
-for g in range(5, 0, -1):
- print(g)
+# for e in range(2, 25, 2):
+#  print(e)
+# for t in range(8, 97, 8):
+#  print(t)
+# for g in range(5, 0, -1):
+#  print(g)
  
+## Task 8: User-Defined Range Counter
+
+# Using input(), ask the user for 2 numbers and store them in the
+# variables:
+# 1. start
+# 2. stop
+
+# Write a 'for' loop to count from **start** to **stop**
+
+# Note:
+# What happens if the user inputs a higher start number than stop?
+# Modify your code to be able to handle that scenario.
