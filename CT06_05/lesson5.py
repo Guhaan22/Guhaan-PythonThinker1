@@ -19,7 +19,7 @@
 Name = input("What is the birthday person's name?")
 Age = int(input("What is the birthday person's age this year"))
 Message = int(input("What personal message you would like to say"))
-print ("Happy Ageth birthday ! guy")
+print ("Happy Ageth birthday Name! guy")
 
 
 
