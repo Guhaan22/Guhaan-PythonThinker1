@@ -74,3 +74,4 @@ for t in range(8, 97, 8):
  print(t)
 for g in range(5, 0, -1):
  print(g)
+ 
