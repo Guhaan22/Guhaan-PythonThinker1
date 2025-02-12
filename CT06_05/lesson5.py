@@ -17,7 +17,7 @@
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
 Name = input("What is the birthday person's name?")
-Age = int(input("What is the birthday person's age this year"))
+Age = input("What is the birthday person's age this year")
 Message = input("What personal message you would like to say")
 print("Happy " + Age + "th birthday " + Name + ", " + Message)
 
