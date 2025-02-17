@@ -1,5 +1,5 @@
 print("Hello from lesson 6")
 print("Hello World")
-print()
-for m in range():
+print("Ready")
+for m in range(3, 0, -1):
     print(m)
