@@ -11,12 +11,9 @@
 
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
-Bingley = 95
-Nimfa = 54
-Rungsa = 76
-Sulung = 67
+for i in range(4):
+    input("What is your student's name.")
 print(Bingley + Nimfa + Rungsa + Sulung)
-print(ans / 4)
 
 
 print("Hello from lesson 6")
