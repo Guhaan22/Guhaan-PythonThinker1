@@ -13,6 +13,7 @@
 # well as a 'for' loop.
 
 
+
 print("Hello from lesson 6")
 print("Hello World")
 print("Ready")
