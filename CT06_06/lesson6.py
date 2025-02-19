@@ -35,7 +35,7 @@ for i in range(5):
 print("Hello, World!")
 
 # **Task 1d**:
-if5
+hello = 5
 
 # **Task 1e**:
-print ("Hello, World!")
+print("Hello, World!")
