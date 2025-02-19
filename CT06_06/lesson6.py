@@ -11,7 +11,8 @@
 
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
-terry
+Bingley = 95
+Nimf
 
 
 print("Hello from lesson 6")
