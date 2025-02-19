@@ -13,7 +13,7 @@
 # well as a 'for' loop.
 for i in range(4):
     input("What is your student's name.")
-    input
+    input("Waht ")
 print()
 
 
