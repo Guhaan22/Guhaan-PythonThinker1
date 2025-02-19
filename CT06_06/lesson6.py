@@ -13,6 +13,7 @@
 # well as a 'for' loop.
 Bingley = 95
 Nimfa = 54
+Rungsa = 76
 
 
 
