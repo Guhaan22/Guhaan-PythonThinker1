@@ -18,3 +18,4 @@ for i in range(1, numStudents + 1):
     sum = sum + int(input("What is student " + str(i) + "'s score?"))
 print("My sum is: " + str(sum))
 print("My average is: " + str(sum / numStudents))
+
