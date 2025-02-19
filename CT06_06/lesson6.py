@@ -11,15 +11,10 @@
 
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
-for i in range(4):
-    input("What is your student's name.")
-    input("What is the marks of the student")
-print()
 
-
-print("Hello from lesson 6")
-print("Hello World")
-print("Ready")
-for m in range(3, 0, -1):
-    print(m)\
-
+numStudents = int(input("How many students do you have"))
+sum = 0
+for i in range(1, numStudents + 1):
+    sum = sum + int(input("What is student " + str(i) + "'s score?"))
+print("My sum is: " + str(sum))
+print("My average is: " + str(sum / numStudents))
