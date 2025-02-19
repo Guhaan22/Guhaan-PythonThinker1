@@ -11,7 +11,7 @@
 
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
-
+terry
 
 
 print("Hello from lesson 6")
