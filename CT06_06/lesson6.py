@@ -16,7 +16,7 @@ Nimfa = 54
 Rungsa = 76
 Sulung = 67
 print(Bingley + Nimfa + Rungsa + Sulung)
-print(a)
+print(ans )
 
 
 print("Hello from lesson 6")
