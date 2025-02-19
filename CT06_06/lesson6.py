@@ -12,7 +12,8 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop.
 Bingley = 95
-Nimf
+Nimfa = 54
+
 
 
 print("Hello from lesson 6")
