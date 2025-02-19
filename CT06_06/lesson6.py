@@ -71,6 +71,7 @@ number = 10
 print(number - 5)
 
 # **Task 3c**:
+Repeat = 6
 print("Repeat" * "3")
 
 # **Task 3d**:
