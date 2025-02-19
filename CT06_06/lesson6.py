@@ -15,7 +15,7 @@ Bingley = 95
 Nimfa = 54
 Rungsa = 76
 Sulung = 67
-print("")
+print("67 + 54 + 76 + 95")
 
 
 print("Hello from lesson 6")
