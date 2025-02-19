@@ -72,7 +72,7 @@ print(number - 5)
 
 # **Task 3c**:
 Repeat = 6
-print("Repeat" * "3")
+print(Repeat * 3)
 
 # **Task 3d**:
 year = 2023
