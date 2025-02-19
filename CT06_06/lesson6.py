@@ -13,7 +13,8 @@
 # well as a 'for' loop.
 for i in range(4):
     input("What is your student's name.")
-print(Bingley + Nimfa + Rungsa + Sulung)
+    
+print()
 
 
 print("Hello from lesson 6")
