@@ -49,11 +49,11 @@ print(age)
 
 # **Task 2b**:
 name = "Alice"
-print(nam)
+print(name)
 
 # **Task 2c**:
 print(x)
-x = 5
+
 
 # **Task 2d**:
 pint("Hello, World!")
