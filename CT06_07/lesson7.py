@@ -31,7 +31,6 @@
 # 3. Add the sum of 'num' and the loop's parameter and print out
 #    the value.
 # 4. Observe what happens.
-
 # Example:
 # 1st iteration
 #     num = num + i
