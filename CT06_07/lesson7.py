@@ -136,3 +136,4 @@
 # Sum of the 5 numbers is 19 
 for u in range (5):
     u = input("What number would like to store")
+    print ()
