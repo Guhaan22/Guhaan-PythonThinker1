@@ -94,6 +94,9 @@
 # burger
 # burger
 # burger
+from os import nice
+
+
 word = input("What word should be repeated")
 n = input("What number would you like to store")
 for w in range(int(n)):
@@ -116,4 +119,4 @@ for w in range(int(n)):
 name = input("What name should be repeated")
 nu = input("What number would you like to store")
 for w in range(int(nu)):
-    print()
+    print("Nice to meet you," + name)
