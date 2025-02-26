@@ -25,11 +25,11 @@
 #    the value.
 # 4. Observe what happens.
 # Example:
-num = 0
+# num = 0
 
-for i in range(10): 
-    num = num + i
-    print(num)
+# for i in range(10): 
+#     num = num + i
+#     print(num)
 # 1st iteratio
 #     num = num + i
 #     print(num)
@@ -61,8 +61,8 @@ for i in range(10):
 # ## Task 1: For Loop: 1 to 10 using range(start, stop)
 
 # Use a 'for' loop to print numbers from 1 to 10.
-for r in range (1, 11):
-    print(r)
+# for r in range (1, 11):
+#     print(r)
 # ---------------------------------------------------------------
 
 # ## Task 2: Even Numbers 2-20 Loop using
