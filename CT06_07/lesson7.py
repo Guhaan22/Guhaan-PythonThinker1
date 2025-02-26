@@ -173,5 +173,5 @@ for i in range(1, 13):
 
 # Hint: You can use a code like this >>> print("a" * 5) 
 numb = int(input("What number would you like to store"))
-for a in range(1, 5):
+for a in range(1, 6):
     print("a"*5)
