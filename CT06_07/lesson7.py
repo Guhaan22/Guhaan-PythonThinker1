@@ -135,5 +135,5 @@
 # output:
 # Sum of the 5 numbers is 19 
 for u in range(5):
-    i = input("What is Number" +  u)
+    i = input("What is Number" + ())
     print (u)
