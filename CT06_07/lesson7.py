@@ -126,7 +126,7 @@
 # sum of these numbers.
 
 # Example:
-# What is number #3 <<5>>
+# What is number #1 <<5>>
 # What is number #2? <<2>>
 # What is number #3? <<4>>
 # What is number #4? <<1>>
@@ -134,3 +134,5 @@
 
 # output:
 # Sum of the 5 numbers is 19 
+for u in range (5):
+    u = input("What number would like to store")
