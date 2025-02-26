@@ -70,9 +70,13 @@ for r in range (1, 11):
 
 # Print all even numbers between 2 and 20 using a 'for' loop and
 # range().
+for e in range(2, 20, 2):
+    print(e)
 
 # ---------------------------------------------------------------
 
 # ## Task 3: Countdown From 10 For Loop
 
 # Use a 'for' loop and range() to count down from 10 to 1.
+for t in range(11, 1, -1):
+    print(t)
