@@ -154,5 +154,5 @@
 # ..
 # 5 x 12 = 60
 n = int(input("What multiplication table do you want"))
-for i in range(n):
+for i in range(1, n):
     print(n*i)
