@@ -34,7 +34,7 @@
 # Example:
 num = 0
 for num in range(1, 11):
-    
+    print(num)
 # 1st iteration
 #     num = num + i
 #     print(num)
