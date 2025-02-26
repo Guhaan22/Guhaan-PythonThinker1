@@ -139,3 +139,17 @@ sum = 0
 for u in range(1, 6):
     sum = sum + input("What is Number" + u )
     print(u)
+
+## Task 7: Multiplication Table Generator
+
+# Ask the user for a number, then print the multiplication table
+# for that number from 1 to 12.
+
+# Example:
+# What number for the timestable? > << 5 >>
+# output:
+# 5 x 1 = 5
+# 5 x 2 = 10
+# ....
+# ..
+# 5 x 12 = 60
