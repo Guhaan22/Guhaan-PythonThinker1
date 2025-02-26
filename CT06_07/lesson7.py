@@ -118,4 +118,5 @@
 name = input("What name should be repeated")
 nu = input("What number would you like to store")
 for w in range(int(nu)):
-    print("Nice to meet you," + name)
+    print("Nice to meet you," +  name)
+
