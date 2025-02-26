@@ -96,5 +96,5 @@
 # burger
 word = input("What word should be repeated")
 n = input("What number would you like to store")
-for w in range (n):
+for w in range(n):
     print(w)
