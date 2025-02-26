@@ -95,4 +95,4 @@
 # burger
 # burger
 word = input("What word should be repeated")
-number = input("")
+n = input("What numbe r")
