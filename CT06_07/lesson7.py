@@ -153,4 +153,6 @@ for u in range(1, 6):
 # ....
 # ..
 # 5 x 12 = 60
-n = ("")
+n = ("Waht multiplication table do you want")
+for i in range (n):
+    print()
