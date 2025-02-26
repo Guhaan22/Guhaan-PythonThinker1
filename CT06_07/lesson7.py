@@ -21,8 +21,8 @@
 # ## Task 1: For Loop: 1 to 10 using range(start, stop)
 
 # Use a 'for' loop to print numbers from 1 to 10.
-# for i in range (1, 11):
-# print(i)
+# for h in range (1, 11):
+# print(h)
 
 ## Task 9: Accumulative Sum in Loop
 
