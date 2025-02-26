@@ -94,4 +94,4 @@
 # burger
 # burger
 # burger
-
+word = input("")
