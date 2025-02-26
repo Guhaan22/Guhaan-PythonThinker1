@@ -60,8 +60,8 @@ for num in range(1, 11):
 #     28
 #     36
 #     45
-num = num = 10
-print(num)
+# num = num = 10
+# print(num)
 
 ## Task 2: Even Numbers 2-20 Loop using
 ##         range(start, stop, step)
