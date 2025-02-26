@@ -1,5 +1,4 @@
-# print("Hello from lesson 7")
-# # Lesson 7 - For Loop (Part 2)
+# Lesson 7 - For Loop (Part 2)
 
 # ## Recap 1: Debugging Average Score Program
 
@@ -17,12 +16,6 @@
 # student_name = ("Alex")
 
 # print("Average score for" + student_name + " is: " + str("average_score"))
-
-# ## Task 1: For Loop: 1 to 10 using range(start, stop)
-
-# Use a 'for' loop to print numbers from 1 to 10.
-# for h in range (1, 11):
-# print(h)
 
 ## Task 9: Accumulative Sum in Loop
 
@@ -68,7 +61,8 @@ for i in range(10):
 # ## Task 1: For Loop: 1 to 10 using range(start, stop)
 
 # Use a 'for' loop to print numbers from 1 to 10.
-
+for r in range (1, 11):
+    print(r)
 # ---------------------------------------------------------------
 
 # ## Task 2: Even Numbers 2-20 Loop using
