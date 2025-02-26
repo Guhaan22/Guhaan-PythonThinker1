@@ -114,6 +114,6 @@ for w in range(int(n)):
 # Nice to meet you, burger
 
 name = input("What name should be repeated")
-n = input("What number would you like to store")
-for w in range(int(n)):
-    print(word)
+nu = input("What number would you like to store")
+for w in range(int(nu)):
+    print()
