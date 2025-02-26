@@ -137,7 +137,7 @@
 
 sum = 0
 for u in range(1, 6):
-    sum = sum + input(int("What is Number" + str(u)))
+    sum = sum + int(input(("What is Number" + str(u))))
     print(u)
 
 ## Task 7: Multiplication Table Generator
