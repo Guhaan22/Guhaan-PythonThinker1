@@ -135,10 +135,10 @@
 # output:
 # Sum of the 5 numbers is 19
 
-sum = 0
-for u in range(1, 6):
-    sum = sum + int(input(("What is Number" + str(u))))
-    print(u)
+# sum = 0
+# for u in range(1, 6):
+#     sum = sum + int(input(("What is Number" + str(u))))
+#     print(u)
 
 ## Task 7: Multiplication Table Generator
 
