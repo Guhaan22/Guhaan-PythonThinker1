@@ -134,3 +134,4 @@
 
 # output:
 # Sum of the 5 numbers is 19 
+myInout
