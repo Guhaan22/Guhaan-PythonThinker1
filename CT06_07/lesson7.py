@@ -115,8 +115,22 @@
 # Nice to meet you, burger
 # Nice to meet you, burger
 
-name = input("What name should be repeated")
-nu = input("What number would you like to store")
-for w in range(int(nu)):
-    print("Nice to meet you," +  name)
+# name = input("What name should be repeated")
+# nu = input("What number would you like to store")
+# for w in range(int(nu)):
+#     print("Nice to meet you," +  name)
 
+## Task 6: Sum of Five User Inputs
+
+# Ask the user to input 5 numbers, one at a time, and print the
+# sum of these numbers.
+
+# Example:
+# What is number #1? <<5>>
+# What is number #2? <<2>>
+# What is number #3? <<4>>
+# What is number #4? <<1>>
+# What is number #5? <<7>>
+
+# output:
+# Sum of the 5 numbers is 19 
