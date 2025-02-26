@@ -112,3 +112,8 @@ for w in range(int(n)):
 # Nice to meet you, burger
 # Nice to meet you, burger
 # Nice to meet you, burger
+
+word = input("What word should be repeated")
+n = input("What number would you like to store")
+for w in range(int(n)):
+    print(word)
