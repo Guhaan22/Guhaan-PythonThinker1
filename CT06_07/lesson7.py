@@ -172,3 +172,4 @@ for i in range(1, 13):
 # 55555
 
 # Hint: You can use a code like this >>> print("a" * 5) 
+numb = int(input)
