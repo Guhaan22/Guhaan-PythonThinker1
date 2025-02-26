@@ -60,3 +60,5 @@ for num in range(1, 11):
 #     28
 #     36
 #     45
+num = num = 10
+print(num)
