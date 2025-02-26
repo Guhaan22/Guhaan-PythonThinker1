@@ -94,4 +94,5 @@
 # burger
 # burger
 # burger
-word = input("")
+word = input("What word should be repeated")
+
