@@ -94,13 +94,12 @@
 # burger
 # burger
 # burger
-from os import nice
 
 
-word = input("What word should be repeated")
-n = input("What number would you like to store")
-for w in range(int(n)):
-    print(word)
+# word = input("What word should be repeated")
+# n = input("What number would you like to store")
+# for w in range(int(n)):
+#     print(word)
 
 ## Task 5: Personalized Greeting Loop
 
