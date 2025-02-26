@@ -78,8 +78,8 @@
 # ## Task 3: Countdown From 10 For Loop
 
 # Use a 'for' loop and range() to count down from 10 to 1.
-for t in range(10, 0, -1):
-    print(t)
+# for t in range(10, 0, -1):
+#     print(t)
 
 ## Task 4: Word Repetition Input Loop
 
