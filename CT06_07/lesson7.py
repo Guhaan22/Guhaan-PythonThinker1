@@ -81,3 +81,17 @@
 for t in range(10, 0, -1):
     print(t)
 
+## Task 4: Word Repetition Input Loop
+
+# Ask the user for a word and a number n. Print the word repeated
+# n times (on separate lines).
+
+# Example:
+# What word would you like to repeat? <<burger>>
+# How many times would you like to repeat? << 3 >>
+
+# output:
+# burger
+# burger
+# burger
+
