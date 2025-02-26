@@ -62,3 +62,13 @@ for num in range(1, 11):
 #     45
 num = num = 10
 print(num)
+
+## Task 2: Even Numbers 2-20 Loop using
+##         range(start, stop, step)
+
+# Print all even numbers between 2 and 20 using a 'for' loop and
+# range().
+
+## Task 3: Countdown From 10 For Loop
+
+# Use a 'for' loop and range() to count down from 10 to 1.
