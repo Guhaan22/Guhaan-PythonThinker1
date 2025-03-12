@@ -47,4 +47,4 @@ print(random.randint)
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
 for i in range(20, 9999):
-   print(random.randint)
+   print(i)
