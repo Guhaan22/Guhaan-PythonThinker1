@@ -107,4 +107,5 @@
 
 import random
 random.randint(1, 50)
-num1 = input("")
+num1 = input("what variable should start be")
+n
