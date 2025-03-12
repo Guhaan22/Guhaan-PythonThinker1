@@ -27,4 +27,5 @@
 import time
 time.sleep(10)
 for i in range(10):
-   t = 
+   t = 10
+   print
