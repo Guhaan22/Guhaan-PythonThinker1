@@ -10,3 +10,4 @@
 #    it out.
 t = 1
 num1 = input("what is number" + t)
+t = t + 1
