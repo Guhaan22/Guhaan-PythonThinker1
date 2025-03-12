@@ -39,7 +39,7 @@
 # Import the 'random' library and create a program that randomly
 # output a number between 1 to 6
 import random
-random.random(1, 6)
+random.randint(1, 6)
 print(random.random)
 
 
