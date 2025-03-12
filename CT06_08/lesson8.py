@@ -88,4 +88,4 @@
 import random
 num1 = random.randint(1, 50)
 num2 = random.randint(1, 50)
-que = input("What is " + str(num1) + num2)
+que = input(int("What is " + str(num1) + str(num2)))
