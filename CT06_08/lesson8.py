@@ -10,5 +10,5 @@
 #    it out.
 t = 1
 for y in range(5):
-      ger = input("what is number" + t)
+   ger = input("what is number" + t)
 t = t + 1   
