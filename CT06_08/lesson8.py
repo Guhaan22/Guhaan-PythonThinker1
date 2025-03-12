@@ -58,7 +58,7 @@ print(str(eurt))
 # Create 2 variables both holding the "True" boolean.
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
-
+tyru = True
 
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
