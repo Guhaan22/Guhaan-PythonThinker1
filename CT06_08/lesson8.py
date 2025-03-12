@@ -30,5 +30,5 @@ import time
 # range(start, stop) => step is 1
 # range(start, stop, step)
 for i in range(10, 0, -1):
-   time.sleep(1)
    print(i)
+   time.sleep(1)
