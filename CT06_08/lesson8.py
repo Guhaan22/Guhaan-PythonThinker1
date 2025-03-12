@@ -85,3 +85,5 @@
 # Example:
 # What is 2 + 5? << 7 >>
 # True
+import random
+random
