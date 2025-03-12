@@ -90,4 +90,4 @@ num1 = random.randint(1, 50)
 num2 = random.randint(1, 50)
 user_ans = input("What is " + str(num1)+ "+" + str(num2))
 ans = num1 + num2
-print()
+print(user_ans == ans)
