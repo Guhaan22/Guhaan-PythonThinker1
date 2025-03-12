@@ -86,4 +86,4 @@
 # What is 2 + 5? << 7 >>
 # True
 import random
-random.randoint(1, 50)
+random.randint(1, 50)
