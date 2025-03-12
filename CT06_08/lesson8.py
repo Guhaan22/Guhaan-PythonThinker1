@@ -60,7 +60,7 @@ print(str(eurt))
 # the "==" operator.
 tryu = True
 uiopp = True
-print(str(tryu == uiopp))
+print(tryu == uiopp)
 
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
@@ -69,3 +69,4 @@ print(str(tryu == uiopp))
 
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
+trew = 
