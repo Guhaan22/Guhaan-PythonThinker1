@@ -106,3 +106,4 @@
 # 2. False (If the answer is wrong)
 
 import random
+random.randint(1, 50)
