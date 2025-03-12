@@ -107,5 +107,5 @@
 
 import random
 random.randint(1, 50)
-num1 = input("what variable should start be")
+num1 = input("what number should start be")
 num2 = input("What number should end be ")
