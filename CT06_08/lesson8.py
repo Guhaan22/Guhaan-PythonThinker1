@@ -46,5 +46,5 @@ print(random.randint)
 # **Task 2b**:
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
-for i in range():
+for i in range(20):
    print(i)
