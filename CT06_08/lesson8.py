@@ -52,7 +52,7 @@
 # **Task 3a**:
 # Assign a boolean value to a variable and print it.
 eurt = True
-print(str(eurt)
+print(str(eurt))
 
 # **Task 3b**:
 # Create 2 variables both holding the "True" boolean.
