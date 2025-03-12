@@ -27,6 +27,6 @@
 import time
 t = 10
 for i in range(10):
-   time.sleep(10)
+   time.sleep(1)
    print(t)
    t = t - 1
