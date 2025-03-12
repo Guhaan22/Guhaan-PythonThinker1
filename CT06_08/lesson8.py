@@ -106,7 +106,7 @@
 # 2. False (If the answer is wrong)
 
 import random
-random.randint(1, 50)
+iyt = random.randint(1, 50)
 num1 = input("what number should start be")
 num2 = input("What number should end be ")
-num1 
+num1 < num2 
