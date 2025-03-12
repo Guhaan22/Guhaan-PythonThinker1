@@ -26,6 +26,6 @@
 # counting down every second from the number given by the user.me
 import time
 time.sleep(10)
+t = 10
 for i in range(10):
-   t = 10
    print
