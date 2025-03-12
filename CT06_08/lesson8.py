@@ -108,4 +108,4 @@
 import random
 random.randint(1, 50)
 num1 = input("what variable should start be")
-n
+num2 = input("")
