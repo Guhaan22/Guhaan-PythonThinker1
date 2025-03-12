@@ -107,3 +107,4 @@
 
 import random
 random.randint(1, 50)
+num1 = input("")
