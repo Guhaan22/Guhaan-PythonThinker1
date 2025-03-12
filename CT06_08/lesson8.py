@@ -28,4 +28,5 @@ import time
 time.sleep(10)
 t = 10
 for i in range(10):
-   print
+   print(t)
+   t= t-1
