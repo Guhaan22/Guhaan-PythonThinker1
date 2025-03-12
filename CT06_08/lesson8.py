@@ -85,9 +85,28 @@
 # Example:
 # What is 2 + 5? << 7 >>
 # True
-import random
-num1 = random.randint(1, 50)
-num2 = random.randint(1, 50)
-user_ans = input("What is " + str(num1)+ "+" + str(num2))
-ans = num1 + num2
-print(int(user_ans)== ans)
+# import random
+# num1 = random.randint(1, 50)
+# num2 = random.randint(1, 50)
+# user_ans = input("What is " + str(num1)+ "+" + str(num2))
+# ans = num1 + num2
+# print(int(user_ans)== ans)
+
+# **Task 4b**: Range Guesser
+# Create a program that generates a random number between 1 and
+# 50.
+
+# The user should input a range (two numbers: start and end).
+
+# The program checks if the random number falls within the user's
+# range.
+
+# The output should be one of the following:
+# 1. True (If the answer is correct)
+# 2. False (If the answer is wrong)
+
+# import random
+# x = random.randint(2, 49)
+# y = input("smaller number")
+# z = input("bigger number")
+# print(int(y) <= x <= int(z))
