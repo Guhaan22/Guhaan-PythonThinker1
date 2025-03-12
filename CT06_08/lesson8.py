@@ -40,7 +40,7 @@
 # output a number between 1 to 6
 import random
 random.random(1, 6)
-print()
+print(random.random)
 
 
 # **Task 2b**:
