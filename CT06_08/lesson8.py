@@ -24,11 +24,21 @@
 # Modify your code from Task 1a to include an 'input()' function
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.me
-import time
+# import time
 
 # range(stop)
 # range(start, stop) => step is 1
 # range(start, stop, step)
-for i in range(3060, 0, -1):
-   print(i)
-   time.sleep(1)
+# for i in range(3060, 0, -1):
+#    print(i)
+#    time.sleep(1)
+
+## Task 2: 'random' library
+
+# **Task 2a**:
+# Import the 'random' library and create a program that randomly
+# output a number between 1 to 6
+
+# **Task 2b**:
+# Using the 'random' library, create 20 numbers between 0 and
+# 9999 randomly.
