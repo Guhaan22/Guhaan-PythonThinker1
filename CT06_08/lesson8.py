@@ -431,6 +431,8 @@
 # True
 import random
 question = random.randint(1, 50)
+sentence = random.randint(1, 50)
+
 print()
 
 
