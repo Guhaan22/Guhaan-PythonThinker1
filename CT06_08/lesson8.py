@@ -341,8 +341,8 @@
 #   4610126483 6999892256 9596881592 0560010165 5256375679)
 # import math
 # print(math.pi)
-import time
-input = int(input("What number would you like to count down from."))
-for t in range(input, 0, -1):
-    print(t)
-    time.sleep(1)
+# import time
+# input = int(input("What number would you like to count down from."))
+# for t in range(input, 0, -1):
+#     print(t)
+#     time.sleep(1)
