@@ -432,7 +432,7 @@
 import random
 num1 = random.randint(1, 50)
 num2 = random.randint(1, 50)
-terabyte = input("What is" + str(question)  + " + " + str(sentence) + " ? ")
+terabyte = input("What is" + str(num1)  + " + " + str(sentence) + " ? ")
 answer = input(question)
 hidden_answer = num1 + num2
 print(answer == hidden_answer)
