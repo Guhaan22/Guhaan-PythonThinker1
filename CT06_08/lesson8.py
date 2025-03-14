@@ -432,7 +432,14 @@
 import random
 question = random.randint(1, 50)
 sentence = random.randint(1, 50)
-terabyte = input("What is")
+terabyte = input("What is" + str(question)  + " + " + str(sentence) + " ? ")
+answer == input(question)
+hidden_answer == num1 + num2
+print(answer == hidden_answer)
+# if answer == hidden_answer:
+#     print("True")
+# else:
+#     print("False")
 
 
 
