@@ -343,6 +343,6 @@
 # print(math.pi)
 import time
 input = input(int("What number would you like to count down from."))
-for t in range(int(input)):
+for t in range(input):
     print(t)
-    time.sleep(int(input))
+    time.sleep(input)
