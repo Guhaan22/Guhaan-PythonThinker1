@@ -386,10 +386,10 @@
 # **Task 2b**:
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
-import random
-for y in range(20):
-    tre = random.randint(0, 9999)
-    print(str(y) + " generated is " + str(tre))
+# import random
+# for y in range(20):
+#     tre = random.randint(0, 9999)
+    # print(str(y) + " generated is " + str(tre))
 
 
 
