@@ -452,8 +452,12 @@
 # 2. False (If the answer is wrong)
 import random
 num1 = random.randint(1, 50)
+num2 = random.randint(1, 50)
 question = int(input("What number should the starting variable be"))
-
+sentence = int(input("End number?"))
+if num1 >= start:
+    if num1 <= end:
+        
 
 # ---------------------------------------------------------------
 
