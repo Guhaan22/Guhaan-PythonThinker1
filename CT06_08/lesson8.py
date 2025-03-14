@@ -429,12 +429,7 @@
 # Example:
 # What is 2 + 5? << 7 >>
 # True
-import random
-num1 = random.randint(1, 50)
-num2 = random.randint(1, 50)
-terabyte = int(input("What is" + str(num1)  + " + " + str(num2) + " ? "))
-hidden_answer = num1 + num2
-print(terabyte == hidden_answer)
+
 # if answer == hidden_answer:
 #     print("True")
 # else:
@@ -456,6 +451,7 @@ print(terabyte == hidden_answer)
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 import random
+
 
 # ---------------------------------------------------------------
 
