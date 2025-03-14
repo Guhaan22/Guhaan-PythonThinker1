@@ -460,6 +460,8 @@ if num1 >= start:
         print("True")
     else:
         print("False")
+else:
+    Print
 
 # ---------------------------------------------------------------
 
