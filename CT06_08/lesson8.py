@@ -430,8 +430,8 @@
 # What is 2 + 5? << 7 >>
 # True
 import random
-question = random.randint(1, 50)
-sentence = random.randint(1, 50)
+num1 = random.randint(1, 50)
+num2 = random.randint(1, 50)
 terabyte = input("What is" + str(question)  + " + " + str(sentence) + " ? ")
 answer = input(question)
 hidden_answer = num1 + num2
