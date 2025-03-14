@@ -430,7 +430,8 @@
 # What is 2 + 5? << 7 >>
 # True
 import random
-random.randint()
+random.randint(1, 50)
+
 
 
 # **Task 4b**: Range Guesser
