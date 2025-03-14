@@ -105,11 +105,11 @@
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-import random
-iyt = random.randint(1, 50)
-num1 = input("what number should start be")
-num2 = input("What number should end be ")
-num1 < num2 
+# import random
+# iyt = random.randint(1, 50)
+# num1 = input("what number should start be")
+# num2 = input("What number should end be ")
+# num1 < num2 
 
 
 
