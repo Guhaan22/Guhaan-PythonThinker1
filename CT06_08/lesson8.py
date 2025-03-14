@@ -432,8 +432,7 @@
 import random
 question = random.randint(1, 50)
 sentence = random.randint(1, 50)
-terabyte = input
-print()
+terabyte = input("What is")
 
 
 
