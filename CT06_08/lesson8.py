@@ -452,7 +452,7 @@
 # 2. False (If the answer is wrong)
 import random
 num1 = random.randint(1, 50)
-question = int(input())
+question = int(input("what number should the starting variable be"))
 
 # ---------------------------------------------------------------
 
