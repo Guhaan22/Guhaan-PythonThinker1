@@ -430,7 +430,7 @@
 # What is 2 + 5? << 7 >>
 # True
 import random
-random.randint(1, 50)
+question =random.randint(1, 50)
 
 
 
