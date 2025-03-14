@@ -442,6 +442,7 @@ print(terabyte == hidden_answer)
 
 
 
+
 # **Task 4b**: Range Guesser
 # Create a program that generates a random number between 1 and
 # 50.
@@ -454,6 +455,7 @@ print(terabyte == hidden_answer)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
+
 
 # ---------------------------------------------------------------
 
