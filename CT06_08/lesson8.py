@@ -429,6 +429,8 @@
 # Example:
 # What is 2 + 5? << 7 >>
 # True
+import random
+
 
 # **Task 4b**: Range Guesser
 # Create a program that generates a random number between 1 and
