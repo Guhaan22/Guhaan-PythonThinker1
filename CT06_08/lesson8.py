@@ -433,7 +433,6 @@ import random
 num1 = random.randint(1, 50)
 num2 = random.randint(1, 50)
 terabyte = input("What is" + str(num1)  + " + " + str(num2) + " ? ")
-answer = input(question)
 hidden_answer = num1 + num2
 print(answer == hidden_answer)
 # if answer == hidden_answer:
