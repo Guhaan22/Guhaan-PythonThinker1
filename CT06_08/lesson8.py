@@ -386,6 +386,12 @@ print(num)
 # **Task 2b**:
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
+for y in range(20):
+    tre = random.randint(0, 9999)
+
+
+
+
 
 # ---------------------------------------------------------------
 
