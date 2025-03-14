@@ -345,4 +345,4 @@ import time
 input = int(input("What number would you like to count down from."))
 for t in range(input, 0, -1):
     print(t)
-    time.sleep(input)
+    time.sleep(1)
