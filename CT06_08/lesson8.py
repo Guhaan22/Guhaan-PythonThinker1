@@ -456,7 +456,7 @@ num2 = random.randint(1, 50)
 question = int(input("What number should the starting variable be"))
 sentence = int(input("End number?"))
 if num1 >= question:
-    if num1 <= end:
+    if num1 <= sentence:
         print("True")
     else:
         print("False")
