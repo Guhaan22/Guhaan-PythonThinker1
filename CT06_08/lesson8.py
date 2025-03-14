@@ -431,6 +431,7 @@
 # True
 import random
 question = random.randint(1, 50)
+print()
 
 
 
