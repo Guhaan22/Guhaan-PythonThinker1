@@ -379,9 +379,9 @@
 # **Task 2a**:
 # Import the 'random' library and create a program that randomly
 # output a number between 1 to 6
-import random
-num = random.randint(1, 6)
-print(num)
+# import random
+# num = random.randint(1, 6)
+# print(num)
 
 # **Task 2b**:
 # Using the 'random' library, create 20 numbers between 0 and
