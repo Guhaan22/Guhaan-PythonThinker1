@@ -389,7 +389,7 @@
 import random
 for y in range(20):
     tre = random.randint(0, 9999)
-    print(str(y) + " generated is " + str(num))
+    print(str(y) + " generated is " + str(tre))
 
 
 
