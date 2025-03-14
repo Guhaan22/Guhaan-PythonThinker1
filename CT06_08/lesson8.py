@@ -455,7 +455,7 @@ print(terabyte == hidden_answer)
 # The output should be one of the following:
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
-
+import random
 
 # ---------------------------------------------------------------
 
