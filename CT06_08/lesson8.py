@@ -461,7 +461,7 @@ if num1 >= start:
     else:
         print("False")
 else:
-    Print
+    print("False")
 
 # ---------------------------------------------------------------
 
