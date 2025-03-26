@@ -49,4 +49,4 @@ for i in range(7):
     MyInput = ("What are your savings for the day")
     if sum > 0 :
         sum = sum + MyInput
-
+print(sum)
