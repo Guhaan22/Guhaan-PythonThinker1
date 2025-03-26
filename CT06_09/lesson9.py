@@ -44,3 +44,8 @@
 #    than 0. If so, increase the variable 'sum' by
 #    that day's savings.
 # 5. After the loop, print the sum of savings for that week
+sum = 0
+for i in range(7):
+    MyInput = ("What are your savings for the day")
+    if sum > 0 :
+        sum = sum + MyInput
